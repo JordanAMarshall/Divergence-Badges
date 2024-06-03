@@ -25,7 +25,10 @@ https://api.badgr.io/public/assertions/wQB1Wvs_RemY_gF5aRqlgw?identity__email=jo
 https://api.badgr.io/public/assertions/3A3bFUXeRWOUJdhPm7KK1A?identity__email=jordanandrewmarshall1%40gmail.com
 ### Cert Prep Operations Ready
 https://api.badgr.io/public/assertions/v5ckRhN4RIy6lbvtsDFRUw?identity__email=jordanandrewmarshall1%40gmail.com
-
+### Cert Prep Security Ready
+https://api.badgr.io/public/assertions/wlKvSECaQ5KHtfiQNWSg6Q?identity__email=jordanandrewmarshall1%40gmail.com
+### Cert Prep Troubleshooting Ready
+https://api.badgr.io/public/assertions/dxs_2PlTRWCozvvnywuRag?identity__email=jordanandrewmarshall1%40gmail.com
 
 
 ## Network+
