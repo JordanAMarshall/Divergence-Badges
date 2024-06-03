@@ -10,17 +10,23 @@ https://api.badgr.io/public/assertions/RxKc-IrbS4e0vcEH2VECIw?identity__email=jo
 ### Cert Prep Security Ready
 https://api.badgr.io/public/assertions/H1qt7a4qQk28S2P-xL-nyg?identity__email=jordanandrewmarshall1%40gmail.com
 
+
+
 ## Linux+
 ### Cert Prep Architecture Ready
 https://api.badgr.io/public/assertions/UOPXtAdVS8CnYoPFJUBtiA?identity__email=jordanandrewmarshall1%40gmail.com
 ### Cert Prep Troubleshooting Ready
 https://api.badgr.io/public/assertions/wQB1Wvs_RemY_gF5aRqlgw?identity__email=jordanandrewmarshall1%40gmail.com
 
+
+
 ## PenTest+
 ### Cert Prep Infrastructure Ready
 https://api.badgr.io/public/assertions/3A3bFUXeRWOUJdhPm7KK1A?identity__email=jordanandrewmarshall1%40gmail.com
 ### Cert Prep Operations Ready
 https://api.badgr.io/public/assertions/v5ckRhN4RIy6lbvtsDFRUw?identity__email=jordanandrewmarshall1%40gmail.com
+
+
 
 ## Network+
 ### Cert Prep Architecture Ready
