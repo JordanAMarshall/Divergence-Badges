@@ -17,7 +17,12 @@ https://api.badgr.io/public/assertions/H1qt7a4qQk28S2P-xL-nyg?identity__email=jo
 https://api.badgr.io/public/assertions/UOPXtAdVS8CnYoPFJUBtiA?identity__email=jordanandrewmarshall1%40gmail.com
 ### Cert Prep Troubleshooting Ready
 https://api.badgr.io/public/assertions/wQB1Wvs_RemY_gF5aRqlgw?identity__email=jordanandrewmarshall1%40gmail.com
-
+### Cert Prep Automation Ready
+https://api.badgr.io/public/assertions/V5nPZLqtSOC3sIBd7I8LtA?identity__email=jordanandrewmarshall1%40gmail.com
+### Cert Prep Networking Ready
+https://api.badgr.io/public/assertions/JmG3dZrkRC6Y1RM_NfIovQ?identity__email=jordanandrewmarshall1%40gmail.com
+### Cert Prep Security Ready
+https://api.badgr.io/public/assertions/tK6BE3XHSVmEyT3kdh_izA?identity__email=jordanandrewmarshall1%40gmail.com
 
 
 ## PenTest+
@@ -38,7 +43,7 @@ https://api.badgr.io/public/assertions/Wa1fx55ORv23OuhO5qJEIA?identity__email=jo
 
 ## Network+
 ### Cert Prep Architecture Ready
-https://api.badgr.io/public/assertions/vsDv89eyTNqpl75_RkwLcg?identity__email=jordanandrewmarshall1%40gmail.com
+https://api.badgr.io/public/assertions/aXABkIYzSw-i85w0NRuFLw?identity__email=jordanandrewmarshall1%40gmail.com
 ### Cert Prep Infrastructure Ready
 https://api.badgr.io/public/assertions/2rIcJnRVRqyqOKA-qGYhnA?identity__email=jordanandrewmarshall1%40gmail.com
 ### Cert Prep Operations Ready
