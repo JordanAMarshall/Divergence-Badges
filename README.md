@@ -14,15 +14,23 @@ https://api.badgr.io/public/assertions/H1qt7a4qQk28S2P-xL-nyg?identity__email=jo
 
 ## Linux+
 ### Cert Prep Architecture Ready
-https://api.badgr.io/public/assertions/UOPXtAdVS8CnYoPFJUBtiA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/4d10ed0c-8ebc-4ba7-8c93-f0eefc117ae5)
+
 ### Cert Prep Troubleshooting Ready
-https://api.badgr.io/public/assertions/wQB1Wvs_RemY_gF5aRqlgw?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/b7477804-517c-47dd-b843-7bed1f237214)
+
+
 ### Cert Prep Automation Ready
-https://api.badgr.io/public/assertions/V5nPZLqtSOC3sIBd7I8LtA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/59daf6e0-175d-4c92-a2dd-3e3be7eb7803)
+
+
 ### Cert Prep Networking Ready
-https://api.badgr.io/public/assertions/JmG3dZrkRC6Y1RM_NfIovQ?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/37685b6a-ebc4-447d-bb9e-9288b90be6b9)
+
+
 ### Cert Prep Security Ready
-https://api.badgr.io/public/assertions/tK6BE3XHSVmEyT3kdh_izA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/47351f8a-eb09-4efe-a5fa-44399ee3b107)
+
 
 
 ## PenTest+
