@@ -2,13 +2,17 @@
 These are the badges for completing different labs at divergence academy
 ## Security+
 ### Cert Prep Architecture Ready
-https://api.badgr.io/public/assertions/G8W8gt9CS9Snh0MXjItBCA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/88f64be0-8aea-4e14-bed5-abc705655de1)
+
 ### Cert Prep Infrastructure Ready
-https://api.badgr.io/public/assertions/PxAIL2I8T1O8ysmd_2xuHA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/f77f00a0-6bd8-4552-a9a3-855c9956ff5b)
+
 ### Cert Prep Operations Ready
-https://api.badgr.io/public/assertions/RxKc-IrbS4e0vcEH2VECIw?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/a9046f26-5847-42a9-8914-2f9896365f04)
+
 ### Cert Prep Security Ready
-https://api.badgr.io/public/assertions/H1qt7a4qQk28S2P-xL-nyg?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/023dc6e1-57c5-478d-b9cf-2c150ac1b847)
+
 
 
 
@@ -35,28 +39,39 @@ https://api.badgr.io/public/assertions/H1qt7a4qQk28S2P-xL-nyg?identity__email=jo
 
 ## PenTest+
 ### Cert Prep Infrastructure Ready
-https://api.badgr.io/public/assertions/3A3bFUXeRWOUJdhPm7KK1A?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/24ec141c-5c1a-4051-be9c-bd2f30eed7d1)
+
 ### Cert Prep Operations Ready
-https://api.badgr.io/public/assertions/v5ckRhN4RIy6lbvtsDFRUw?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/6a5fa1a9-90cc-45df-8420-2af227b891ab)
+
 ### Cert Prep Security Ready
-https://api.badgr.io/public/assertions/wlKvSECaQ5KHtfiQNWSg6Q?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/3a079d12-6729-4fa3-9eec-663135f759a9)
+
 ### Cert Prep Troubleshooting Ready
-https://api.badgr.io/public/assertions/dxs_2PlTRWCozvvnywuRag?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/b16b4ba0-907f-4843-9d9b-eb0ae1563e0c)
+
 ### Cert Prep Automation Ready
-https://api.badgr.io/public/assertions/VnA_-SiyS4efQW6tLxzYVw?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/428b5645-c54a-480a-b84f-2e02949608df)
+
 ### Cert Prep Architecture Ready
-https://api.badgr.io/public/assertions/Wa1fx55ORv23OuhO5qJEIA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/853f8c6e-4e80-4414-a745-5d4ef957ba49)
+
 
 
 
 ## Network+
 ### Cert Prep Architecture Ready
-https://api.badgr.io/public/assertions/aXABkIYzSw-i85w0NRuFLw?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/d1d28532-0906-45c2-961f-86edad1f869b)
+
 ### Cert Prep Infrastructure Ready
-https://api.badgr.io/public/assertions/2rIcJnRVRqyqOKA-qGYhnA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/f155fe4b-9b1b-4252-97c9-a310e8b726b9)
+
 ### Cert Prep Operations Ready
-https://api.badgr.io/public/assertions/u1x5-7vqQJ2W9sUEUXOIfA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/19b09cc7-eeaa-4e3f-ba14-b389af438569)
+
 ### Cert Prep Security Ready
-https://api.badgr.io/public/assertions/1hmMkkxBQO6kJbKaeiQ9kA?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/67a64f65-498b-4b6d-a5aa-747b47ef6a49)
+
 ### Cert Prep Troubleshooting Ready
-https://api.badgr.io/public/assertions/D_6XNdiySmiJWLGrbQNeLw?identity__email=jordanandrewmarshall1%40gmail.com
+![image](https://github.com/JordanAMarshall/Divergence-Badges/assets/170648644/51fea52f-4034-4143-a9a6-d54b881dab75)
+
